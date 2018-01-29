@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Survivalist\Assets\Scripts\ReturnSlotNumber.cs">
+    <Files>
+      <File FileName="..\Survivalist\Assets\Scripts\GUIMechanics.cs" Line="69" Column="9" />
+      <File FileName="..\Survivalist\Assets\Scripts\ReturnSlotNumber.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
